@@ -1,0 +1,220 @@
+{
+  "source": "nologos/publicCards",
+  "title": "eng/de flashcards",
+  "description": "english to german translations",
+  "translator": "Your Name",
+  "translations": [
+    {
+        "question": "hello",
+        "answer": "gutentag" 
+    },
+    {
+        "question": "goodbye",
+        "answer": "auf Wiedersehen" 
+    },
+    {
+        "question": "please",
+        "answer": "bitte" 
+    },
+    {
+        "question": "thank you",
+        "answer": "danke" 
+    },
+    {
+        "question": "yes",
+        "answer": "ja" 
+    },
+    {
+        "question": "no",
+        "answer": "nein" 
+    },
+    {
+        "question": "good morning",
+        "answer": "guten Morgen" 
+    },
+    {
+        "question": "good night",
+        "answer": "gute Nacht" 
+    },
+    {
+        "question": "How much does this cost?",
+        "answer": "Wie viel kostet das?"
+    },
+    {
+        "question": "Where is the train station?",
+        "answer": "Wo ist der Bahnhof?"
+    },
+    {
+        "question": "Where is the airport?",
+        "answer": "Wo ist der Flughafen?"
+    },
+    {
+        "question": "Where is the bus stop?",
+        "answer": "Wo ist die Bushaltestelle?"
+    },
+    {
+        "question": "Where is the hotel?",
+        "answer": "Wo ist das Hotel?"
+    },
+    {
+        "question": "Where is the restaurant?",
+        "answer": "Wo ist das Restaurant?"
+    },
+    {
+        "question": "Where is the bathroom?",
+        "answer": "Wo ist das Badezimmer?"
+    },
+    {
+        "question": "Where is the bank?",
+        "answer": "Wo ist die Bank?"
+    },
+    {
+        "question": "Where is the pharmacy?",
+        "answer": "Wo ist die Apotheke?"
+    },
+    {
+        "question": "Where is the hospital?",
+        "answer": "Wo ist das Krankenhaus?"
+    },
+    {
+        "question": "Where is the police station?",
+        "answer": "Wo ist die Polizeistation?"
+    },
+    {
+        "question": "Where is the museum?",
+        "answer": "Wo ist das Museum?"
+    },
+    {
+        "question": "Where is the post office?",
+        "answer": "Wo ist das Postamt?"
+    },
+    {
+        "question": "Where is the supermarket?",
+        "answer": "Wo ist der Supermarkt?"
+    },
+    {
+        "question": "Where is the store?",
+        "answer": "Wo ist der Laden?"
+    },
+    {
+        "question": "Where is the library?",
+        "answer": "Wo ist die Bibliothek?"
+    },
+    {
+        "question": "Where is the park?",
+        "answer": "Wo ist der Park?"
+    },
+    {
+        "question": "Where is the school?",
+        "answer": "Wo ist die Schule?"
+    },
+    {
+        "question": "Where is the university?",
+        "answer": "Wo ist die Universität?"
+    },
+    {
+        "question": "Where is the church?",
+        "answer": "Wo ist die Kirche?"
+    },
+    {
+        "question": "Where is the gas station?",
+        "answer": "Wo ist die Tankstelle?"
+    },
+    {
+        "question": "Where is the train station?",
+        "answer": "Wo ist der Bahnhof?"
+    },
+    {
+        "question": "Where is the airport?",
+        "answer": "Wo ist der Flughafen?"
+    },
+    {
+        "question": "Where is the bus stop?",
+        "answer": "Wo ist die Bushaltestelle?"
+    },
+    {
+        "question": "Where is the hotel?",
+        "answer": "Wo ist das Hotel?"
+    },
+    {
+        "question": "Where is the restaurant?",
+        "answer": "Wo ist das Restaurant?"
+    },
+    {
+        "question": "Where is the bathroom?",
+        "answer": "Wo ist das Badezimmer?"
+    },
+    {
+        "question": "Where is the bank?",
+        "answer": "Wo ist die Bank?"
+    },
+    {
+        "question": "Where is the pharmacy?",
+        "answer": "Wo ist die Apotheke?"
+    },
+    {
+        "question": "Where is the hospital?",
+        "answer": "Wo ist das Krankenhaus?"
+    },
+    {
+        "question": "Where is the police station?",
+        "answer": "Wo ist die Polizeistation?"
+    },
+    {
+        "question": "Where is the museum?",
+        "answer": "Wo ist das Museum?"
+    },
+    {
+        "question": "Where is the post office?",
+        "answer": "Wo ist das Postamt?"
+    },
+    {
+        "question": "Where is the supermarket?",
+        "answer": "Wo ist der Supermarkt?"
+    },
+    {
+        "question": "Where is the store?",
+        "answer": "Wo ist der Laden?"
+    },
+    {
+        "question": "Where is the library?",
+        "answer": "Wo ist die Bibliothek?"
+    },
+    {
+        "question": "How are you?",
+        "answer": "Wie geht es dir?"
+    },
+    {
+        "question": "What is your name?",
+        "answer": "Wie heißt du?"
+    },
+    {
+        "question": "Where is the bathroom?",
+        "answer": "Wo ist das Badezimmer?"
+    },
+    {
+        "question": "I'm sorry",
+        "answer": "Es tut mir leid"
+    },
+    {
+        "question": "Excuse me",
+        "answer": "Entschuldigung"
+    },
+    {
+        "question": "Can you help me?",
+        "answer": "Können Sie mir helfen?"
+    },
+    {
+        "question": "I don't understand",
+        "answer": "Ich verstehe nicht"
+    },
+    {
+        "question": "I don't speak German",
+        "answer": "Ich spreche kein Deutsch"
+    },
+    {
+        "question": "Do you speak English?",
+        "answer": "Sprichst du Englisch?"
+    }
+  ]
+}
