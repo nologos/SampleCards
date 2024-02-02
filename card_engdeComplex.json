@@ -2,88 +2,87 @@
   "source": "nologos/publicCards",
   "title": "eng/de flashcards complex v3",
   "description": "english to german translations v3",
-  "translator": "Your Name",
-  "translations": 
+  "flashcards": 
   [
     {
-        "question": "Hello, how are you today?",
-        "answer": "Hallo, wie geht es dir heute?"
+        "cardfront": "Hello, how are you today?",
+        "cardback": "Hallo, wie geht es dir heute?"
     },
     {
-        "question": "I would like to order a cup of coffee, please.",
-        "answer": "Ich möchte bitte eine Tasse Kaffee bestellen."
+        "cardfront": "I would like to order a cup of coffee, please.",
+        "cardback": "Ich möchte bitte eine Tasse Kaffee bestellen."
     },
     {
-        "question": "Could you recommend a good local restaurant?",
-        "answer": "Könnten Sie ein gutes lokales Restaurant empfehlen?"
+        "cardfront": "Could you recommend a good local restaurant?",
+        "cardback": "Könnten Sie ein gutes lokales Restaurant empfehlen?"
     },
     {
-        "question": "What is the weather forecast for tomorrow?",
-        "answer": "Wie ist die Wettervorhersage für morgen?"
+        "cardfront": "What is the weather forecast for tomorrow?",
+        "cardback": "Wie ist die Wettervorhersage für morgen?"
     },
     {
-        "question": "I'm interested in learning more about your culture. Can you tell me about a traditional German festival?",
-        "answer": "Ich interessiere mich dafür, mehr über deine Kultur zu erfahren. Kannst du mir von einem traditionellen deutschen Festival erzählen?"
+        "cardfront": "I'm interested in learning more about your culture. Can you tell me about a traditional German festival?",
+        "cardback": "Ich interessiere mich dafür, mehr über deine Kultur zu erfahren. Kannst du mir von einem traditionellen deutschen Festival erzählen?"
     },
     {
-        "question": "Excuse me, I seem to be lost. Could you help me find my way to the city center?",
-        "answer": "Entschuldigung, ich scheine mich verirrt zu haben. Könnten Sie mir helfen, den Weg zum Stadtzentrum zu finden?"
+        "cardfront": "Excuse me, I seem to be lost. Could you help me find my way to the city center?",
+        "cardback": "Entschuldigung, ich scheine mich verirrt zu haben. Könnten Sie mir helfen, den Weg zum Stadtzentrum zu finden?"
     },
     {
-        "question": "I have a reservation under the name Smith for tonight. Is everything in order?",
-        "answer": "Ich habe für heute Abend eine Reservierung auf den Namen Smith. Ist alles in Ordnung?"
+        "cardfront": "I have a reservation under the name Smith for tonight. Is everything in order?",
+        "cardback": "Ich habe für heute Abend eine Reservierung auf den Namen Smith. Ist alles in Ordnung?"
     },
     {
-        "question": "What is the most efficient way to travel from Berlin to Munich?",
-        "answer": "Was ist der effizienteste Weg, von Berlin nach München zu reisen?"
+        "cardfront": "What is the most efficient way to travel from Berlin to Munich?",
+        "cardback": "Was ist der effizienteste Weg, von Berlin nach München zu reisen?"
     },
     {
-        "question": "I'm attending a conference. Can you tell me where the venue is located?",
-        "answer": "Ich nehme an einer Konferenz teil. Können Sie mir sagen, wo sich der Veranstaltungsort befindet?"
+        "cardfront": "I'm attending a conference. Can you tell me where the venue is located?",
+        "cardback": "Ich nehme an einer Konferenz teil. Können Sie mir sagen, wo sich der Veranstaltungsort befindet?"
     },
     {
-        "question": "I would like to explore some local art galleries. Are there any notable ones nearby?",
-        "answer": "Ich möchte gerne einige lokale Kunstgalerien erkunden. Gibt es in der Nähe einige bemerkenswerte?"
+        "cardfront": "I would like to explore some local art galleries. Are there any notable ones nearby?",
+        "cardback": "Ich möchte gerne einige lokale Kunstgalerien erkunden. Gibt es in der Nähe einige bemerkenswerte?"
     },
     {
-        "question": "I'm here for business and need to find a reliable internet connection. Can you recommend a good coworking space?",
-        "answer": "Ich bin geschäftlich hier und brauche eine zuverlässige Internetverbindung. Können Sie einen guten Coworking-Space empfehlen?"
+        "cardfront": "I'm here for business and need to find a reliable internet connection. Can you recommend a good coworking space?",
+        "cardback": "Ich bin geschäftlich hier und brauche eine zuverlässige Internetverbindung. Können Sie einen guten Coworking-Space empfehlen?"
     },
     {
-        "question": "Could you provide me with some information about the historical landmarks in this city?",
-        "answer": "Könnten Sie mir einige Informationen zu den historischen Sehenswürdigkeiten dieser Stadt geben?"
+        "cardfront": "Could you provide me with some information about the historical landmarks in this city?",
+        "cardback": "Könnten Sie mir einige Informationen zu den historischen Sehenswürdigkeiten dieser Stadt geben?"
     },
     {
-        "question": "I'm looking for a unique souvenir to take back home. Any suggestions?",
-        "answer": "Ich suche ein einzigartiges Souvenir, um mit nach Hause zu nehmen. Irgendwelche Vorschläge?"
+        "cardfront": "I'm looking for a unique souvenir to take back home. Any suggestions?",
+        "cardback": "Ich suche ein einzigartiges Souvenir, um mit nach Hause zu nehmen. Irgendwelche Vorschläge?"
     },
     {
-        "question": "Do you know of any local events or festivals happening during my stay?",
-        "answer": "Wissen Sie von lokalen Veranstaltungen oder Festivals, die während meines Aufenthalts stattfinden?"
+        "cardfront": "Do you know of any local events or festivals happening during my stay?",
+        "cardback": "Wissen Sie von lokalen Veranstaltungen oder Festivals, die während meines Aufenthalts stattfinden?"
     },
     {
-        "question": "I'm interested in exploring the countryside. Are there any scenic routes or hiking trails you would recommend?",
-        "answer": "Ich interessiere mich für die Erkundung der Landschaft. Gibt es malerische Routen oder Wanderwege, die Sie empfehlen würden?"
+        "cardfront": "I'm interested in exploring the countryside. Are there any scenic routes or hiking trails you would recommend?",
+        "cardback": "Ich interessiere mich für die Erkundung der Landschaft. Gibt es malerische Routen oder Wanderwege, die Sie empfehlen würden?"
     },
     {
-        "question": "I would like to try some authentic German cuisine. Can you suggest a place known for its traditional dishes?",
-        "answer": "Ich möchte gerne authentische deutsche Küche probieren. Können Sie einen Ort vorschlagen, der für seine traditionellen Gerichte bekannt ist?"
+        "cardfront": "I would like to try some authentic German cuisine. Can you suggest a place known for its traditional dishes?",
+        "cardback": "Ich möchte gerne authentische deutsche Küche probieren. Können Sie einen Ort vorschlagen, der für seine traditionellen Gerichte bekannt ist?"
     },
     {
-        "question": "I'm planning to visit some museums. Which ones are a must-see in this city?",
-        "answer": "Ich plane, einige Museen zu besuchen. Welche sind in dieser Stadt ein Muss?"
+        "cardfront": "I'm planning to visit some museums. Which ones are a must-see in this city?",
+        "cardback": "Ich plane, einige Museen zu besuchen. Welche sind in dieser Stadt ein Muss?"
     },
     {
-        "question": "What are the local customs or etiquette that I should be aware of during my stay?",
-        "answer": "Was sind die örtlichen Bräuche oder Etikette, die ich während meines Aufenthalts beachten sollte?"
+        "cardfront": "What are the local customs or etiquette that I should be aware of during my stay?",
+        "cardback": "Was sind die örtlichen Bräuche oder Etikette, die ich während meines Aufenthalts beachten sollte?"
     },
     {
-        "question": "I'm interested in the history of this region. Are there any historical tours or sites you would recommend?",
-        "answer": "Ich interessiere mich für die Geschichte dieser Region. Gibt es historische Touren oder Stätten, die Sie empfehlen würden?"
+        "cardfront": "I'm interested in the history of this region. Are there any historical tours or sites you would recommend?",
+        "cardback": "Ich interessiere mich für die Geschichte dieser Region. Gibt es historische Touren oder Stätten, die Sie empfehlen würden?"
     },
     {
-        "question": "I'm a vegetarian. Can you suggest some good vegetarian restaurants in the area?",
-        "answer": "Ich bin Vegetarier. Können Sie einige gute vegetarische Restaurants in der Umgebung vorschlagen?"
+        "cardfront": "I'm a vegetarian. Can you suggest some good vegetarian restaurants in the area?",
+        "cardback": "Ich bin Vegetarier. Können Sie einige gute vegetarische Restaurants in der Umgebung vorschlagen?"
     }
 ]
 
