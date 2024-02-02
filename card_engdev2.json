@@ -3,218 +3,218 @@
   "title": "eng/de flashcards v2",
   "description": "english to german translations v2",
   "translator": "Your Name",
-  "translations": [
+  "flashcards": [
     {
-        "question": "Hello",
-        "answer": "Hallo"
+        "cardfront": "Hello",
+        "cardback": "Hallo"
     },
     {
-        "question": "Goodbye",
-        "answer": "Auf Wiedersehen"
+        "cardfront": "Goodbye",
+        "cardback": "Auf Wiedersehen"
     },
     {
-        "question": "Please",
-        "answer": "Bitte"
+        "cardfront": "Please",
+        "cardback": "Bitte"
     },
     {
-        "question": "Thank you",
-        "answer": "Danke"
+        "cardfront": "Thank you",
+        "cardback": "Danke"
     },
     {
-        "question": "Yes",
-        "answer": "Ja"
+        "cardfront": "Yes",
+        "cardback": "Ja"
     },
     {
-        "question": "No",
-        "answer": "Nein"
+        "cardfront": "No",
+        "cardback": "Nein"
     },
     {
-        "question": "Good morning",
-        "answer": "Guten Morgen"
+        "cardfront": "Good morning",
+        "cardback": "Guten Morgen"
     },
     {
-        "question": "Good night",
-        "answer": "Gute Nacht"
+        "cardfront": "Good night",
+        "cardback": "Gute Nacht"
     },
     {
-        "question": "How much does this cost?",
-        "answer": "Wie viel kostet das?"
+        "cardfront": "How much does this cost?",
+        "cardback": "Wie viel kostet das?"
     },
     {
-        "question": "Where is the train station?",
-        "answer": "Wo ist der Bahnhof?"
+        "cardfront": "Where is the train station?",
+        "cardback": "Wo ist der Bahnhof?"
     },
     {
-        "question": "Where is the airport?",
-        "answer": "Wo ist der Flughafen?"
+        "cardfront": "Where is the airport?",
+        "cardback": "Wo ist der Flughafen?"
     },
     {
-        "question": "Where is the bus stop?",
-        "answer": "Wo ist die Bushaltestelle?"
+        "cardfront": "Where is the bus stop?",
+        "cardback": "Wo ist die Bushaltestelle?"
     },
     {
-        "question": "Where is the hotel?",
-        "answer": "Wo ist das Hotel?"
+        "cardfront": "Where is the hotel?",
+        "cardback": "Wo ist das Hotel?"
     },
     {
-        "question": "Where is the restaurant?",
-        "answer": "Wo ist das Restaurant?"
+        "cardfront": "Where is the restaurant?",
+        "cardback": "Wo ist das Restaurant?"
     },
     {
-        "question": "Where is the bathroom?",
-        "answer": "Wo ist das Badezimmer?"
+        "cardfront": "Where is the bathroom?",
+        "cardback": "Wo ist das Badezimmer?"
     },
     {
-        "question": "Where is the bank?",
-        "answer": "Wo ist die Bank?"
+        "cardfront": "Where is the bank?",
+        "cardback": "Wo ist die Bank?"
     },
     {
-        "question": "Where is the pharmacy?",
-        "answer": "Wo ist die Apotheke?"
+        "cardfront": "Where is the pharmacy?",
+        "cardback": "Wo ist die Apotheke?"
     },
     {
-        "question": "Where is the hospital?",
-        "answer": "Wo ist das Krankenhaus?"
+        "cardfront": "Where is the hospital?",
+        "cardback": "Wo ist das Krankenhaus?"
     },
     {
-        "question": "Where is the police station?",
-        "answer": "Wo ist die Polizeistation?"
+        "cardfront": "Where is the police station?",
+        "cardback": "Wo ist die Polizeistation?"
     },
     {
-        "question": "Where is the museum?",
-        "answer": "Wo ist das Museum?"
+        "cardfront": "Where is the museum?",
+        "cardback": "Wo ist das Museum?"
     },
     {
-        "question": "Where is the post office?",
-        "answer": "Wo ist das Postamt?"
+        "cardfront": "Where is the post office?",
+        "cardback": "Wo ist das Postamt?"
     },
     {
-        "question": "Where is the supermarket?",
-        "answer": "Wo ist der Supermarkt?"
+        "cardfront": "Where is the supermarket?",
+        "cardback": "Wo ist der Supermarkt?"
     },
     {
-        "question": "Where is the store?",
-        "answer": "Wo ist der Laden?"
+        "cardfront": "Where is the store?",
+        "cardback": "Wo ist der Laden?"
     },
     {
-        "question": "Where is the library?",
-        "answer": "Wo ist die Bibliothek?"
+        "cardfront": "Where is the library?",
+        "cardback": "Wo ist die Bibliothek?"
     },
     {
-        "question": "Where is the park?",
-        "answer": "Wo ist der Park?"
+        "cardfront": "Where is the park?",
+        "cardback": "Wo ist der Park?"
     },
     {
-        "question": "Where is the school?",
-        "answer": "Wo ist die Schule?"
+        "cardfront": "Where is the school?",
+        "cardback": "Wo ist die Schule?"
     },
     {
-        "question": "Where is the university?",
-        "answer": "Wo ist die Universität?"
+        "cardfront": "Where is the university?",
+        "cardback": "Wo ist die Universität?"
     },
     {
-        "question": "Where is the church?",
-        "answer": "Wo ist die Kirche?"
+        "cardfront": "Where is the church?",
+        "cardback": "Wo ist die Kirche?"
     },
     {
-        "question": "Where is the gas station?",
-        "answer": "Wo ist die Tankstelle?"
+        "cardfront": "Where is the gas station?",
+        "cardback": "Wo ist die Tankstelle?"
     },
     {
-        "question": "Where is the train station?",
-        "answer": "Wo ist der Bahnhof?"
+        "cardfront": "Where is the train station?",
+        "cardback": "Wo ist der Bahnhof?"
     },
     {
-        "question": "Where is the airport?",
-        "answer": "Wo ist der Flughafen?"
+        "cardfront": "Where is the airport?",
+        "cardback": "Wo ist der Flughafen?"
     },
     {
-        "question": "Where is the bus stop?",
-        "answer": "Wo ist die Bushaltestelle?"
+        "cardfront": "Where is the bus stop?",
+        "cardback": "Wo ist die Bushaltestelle?"
     },
     {
-        "question": "Where is the hotel?",
-        "answer": "Wo ist das Hotel?"
+        "cardfront": "Where is the hotel?",
+        "cardback": "Wo ist das Hotel?"
     },
     {
-        "question": "Where is the restaurant?",
-        "answer": "Wo ist das Restaurant?"
+        "cardfront": "Where is the restaurant?",
+        "cardback": "Wo ist das Restaurant?"
     },
     {
-        "question": "Where is the bathroom?",
-        "answer": "Wo ist das Badezimmer?"
+        "cardfront": "Where is the bathroom?",
+        "cardback": "Wo ist das Badezimmer?"
     },
     {
-        "question": "Where is the bank?",
-        "answer": "Wo ist die Bank?"
+        "cardfront": "Where is the bank?",
+        "cardback": "Wo ist die Bank?"
     },
     {
-        "question": "Where is the pharmacy?",
-        "answer": "Wo ist die Apotheke?"
+        "cardfront": "Where is the pharmacy?",
+        "cardback": "Wo ist die Apotheke?"
     },
     {
-        "question": "Where is the hospital?",
-        "answer": "Wo ist das Krankenhaus?"
+        "cardfront": "Where is the hospital?",
+        "cardback": "Wo ist das Krankenhaus?"
     },
     {
-        "question": "Where is the police station?",
-        "answer": "Wo ist die Polizeistation?"
+        "cardfront": "Where is the police station?",
+        "cardback": "Wo ist die Polizeistation?"
     },
     {
-        "question": "Where is the museum?",
-        "answer": "Wo ist das Museum?"
+        "cardfront": "Where is the museum?",
+        "cardback": "Wo ist das Museum?"
     },
     {
-        "question": "Where is the post office?",
-        "answer": "Wo ist das Postamt?"
+        "cardfront": "Where is the post office?",
+        "cardback": "Wo ist das Postamt?"
     },
     {
-        "question": "Where is the supermarket?",
-        "answer": "Wo ist der Supermarkt?"
+        "cardfront": "Where is the supermarket?",
+        "cardback": "Wo ist der Supermarkt?"
     },
     {
-        "question": "Where is the store?",
-        "answer": "Wo ist der Laden?"
+        "cardfront": "Where is the store?",
+        "cardback": "Wo ist der Laden?"
     },
     {
-        "question": "Where is the library?",
-        "answer": "Wo ist die Bibliothek?"
+        "cardfront": "Where is the library?",
+        "cardback": "Wo ist die Bibliothek?"
     },
     {
-        "question": "How are you?",
-        "answer": "Wie geht es dir?"
+        "cardfront": "How are you?",
+        "cardback": "Wie geht es dir?"
     },
     {
-        "question": "What is your name?",
-        "answer": "Wie heißt du?"
+        "cardfront": "What is your name?",
+        "cardback": "Wie heißt du?"
     },
     {
-        "question": "Where is the bathroom?",
-        "answer": "Wo ist das Badezimmer?"
+        "cardfront": "Where is the bathroom?",
+        "cardback": "Wo ist das Badezimmer?"
     },
     {
-        "question": "I'm sorry",
-        "answer": "Es tut mir leid"
+        "cardfront": "I'm sorry",
+        "cardback": "Es tut mir leid"
     },
     {
-        "question": "Excuse me",
-        "answer": "Entschuldigung"
+        "cardfront": "Excuse me",
+        "cardback": "Entschuldigung"
     },
     {
-        "question": "Can you help me?",
-        "answer": "Können Sie mir helfen?"
+        "cardfront": "Can you help me?",
+        "cardback": "Können Sie mir helfen?"
     },
     {
-        "question": "I don't understand",
-        "answer": "Ich verstehe nicht"
+        "cardfront": "I don't understand",
+        "cardback": "Ich verstehe nicht"
     },
     {
-        "question": "I don't speak German",
-        "answer": "Ich spreche kein Deutsch"
+        "cardfront": "I don't speak German",
+        "cardback": "Ich spreche kein Deutsch"
     },
     {
-        "question": "Do you speak English?",
-        "answer": "Sprichst du Englisch?"
+        "cardfront": "Do you speak English?",
+        "cardback": "Sprichst du Englisch?"
     }
 ]
 }
